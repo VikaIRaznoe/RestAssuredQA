@@ -38,4 +38,4 @@ ExampleRestAssured3
 ![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/logorovanie_3.png)
 ***
 3)ifValidationFails() - нужно логировать,если ошибка
-
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/logorovanie_4.png)
