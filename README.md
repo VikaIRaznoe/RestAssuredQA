@@ -28,3 +28,8 @@ ExampleRestAssured3
 Пример использования all()
 ![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/logirovanie.png)
 
+2)Логирование ответа - метод mySecondTest()
+У нас отображается: 
+	1)наш запрос
+	2)
+
