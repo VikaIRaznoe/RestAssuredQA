@@ -30,7 +30,7 @@ ExampleRestAssured3
 2)Логирование ответа - метод mySecondTest()
 ###
 У нас отображается: 
-###
+***
 1)наш запрос
 ###
 ![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/logirovanie_2.png)
