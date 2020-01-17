@@ -36,3 +36,6 @@ ExampleRestAssured3
 ***
 2)Content
 ![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/logorovanie_3.png)
+***
+3)ifValidationFails() - нужно логировать,если ошибка
+
