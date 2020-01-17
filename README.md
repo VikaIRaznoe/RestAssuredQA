@@ -31,5 +31,5 @@ ExampleRestAssured3
 2)Логирование ответа - метод mySecondTest()
 У нас отображается: 
 	1)наш запрос
-	2)
+	2)Content
 
