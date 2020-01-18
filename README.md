@@ -40,4 +40,8 @@ ExampleRestAssured3
 3)ifValidationFails() - нужно логировать,если ошибка
 ![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/logirovanie_4.png)
 ***
+ExampleRestAssured4
+=====================
+В этом примере рассматривается использование запроса Get с использованием GetParams
+###
 
