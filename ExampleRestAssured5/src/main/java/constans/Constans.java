@@ -1,12 +1,11 @@
 package constans;
-//import static constans.Constans.Path.SWAPI_PATH;
 
 import static constans.Constans.Servers.*;
 
 public class Constans {
     public static class RunVariable{
-        //public static String server = JSON_PLACEHOLDER_URL;
-        public static String server = REQUESTBIN_URL;
+        public static String server = JSON_PLACEHOLDER_URL;
+        //public static String server = REQUESTBIN_URL;
         //public static String path = SWAPI_PATH;
         public static String path = "";
     }

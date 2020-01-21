@@ -54,4 +54,22 @@ ExampleRestAssured4
 
 Тест успешно прошел.Отображается сам запрос,отображается  comments, postID
 ![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/GET.png)
+***
+ExampleRestAssured5
+=====================
+В этом примере рассматривается отправка параметров запроса в теле запроса POST 
+###
+Метод postWithJson() - здесь отправка параметров в формате JSON.
+###
+Нам вернулось body и Content-Type,которые мы передали
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/POST_JSON_BODY.png)
+***
+Есть другой метод - postWithXML() .Если запустить его в таком виде
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/POST_XML_BODY.png)
+***
+,без изменений в классе TestConfig, то тест упадет,так как теперь у нас формат не JSON и будет ошибка
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/POST_XML_BODY_ERROR.png)
+***
+
+
 
