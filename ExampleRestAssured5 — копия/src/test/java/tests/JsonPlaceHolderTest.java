@@ -1,11 +1,6 @@
 package tests;
 
 import config.TestConfig;
-import io.restassured.RestAssured;
-import io.restassured.response.Response;
-import io.restassured.specification.RequestSpecification;
-import org.json.JSONObject;
-import org.testng.Assert;
 import org.testng.annotations.Ignore;
 import org.testng.annotations.Test;
 

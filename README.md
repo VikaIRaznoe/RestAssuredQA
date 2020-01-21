@@ -70,6 +70,16 @@ ExampleRestAssured5
 ,без изменений в классе TestConfig, то тест упадет,так как теперь у нас формат не JSON и будет ошибка
 ![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/POST_XML_BODY_ERROR.png)
 ***
+Поэтому вынесим настройки RequestSpecification из класса TestConfig.Здесь же в классе TestConfig создадим две спецификации, НО вне метода setUp()
+
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/TestConfig_RequestSpecification_Multipluy.png)
+###
+Вот сами тесты с BODY
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/POST_JSON-XML_BODY.png)
+***
+Итак,RequestSpecification нужен для определения спецификации как для одного отдельного теста,так и для группы тестов.
+
+
 
 
 
