@@ -118,7 +118,7 @@ ExampleRestAssured8
 Здесь мы ожидаем значение ключа "people" -  это URL: "https://swapi.co/api/people/",
 ![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/FIRST_TEST_SWAPI_RUN_MODIFY.png)
 ***
-Запустим его и проверим,как тест отработает:
+Запустим его и проверим,как тест отработает - Мы видим ответ с сервера - Response:
 ![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/RUN_TEST_SWAPI_POSITIVE.png)
 ***
 А вот так выглядит негативный тест,тоесть когда тест не отработал: Либо ошибка в коде,Либо в API
