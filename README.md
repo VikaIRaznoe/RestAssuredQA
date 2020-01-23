@@ -109,11 +109,18 @@ ExampleRestAssured8
 ***
 Для реализации работы с Assertions создадим в TestConfig спецификацию для SWAPI
 Запустим тест
-![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/FIRST_TEST_SWAPI_RUN.png)
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/FIRST_TEST_SWAPI_RUN2.png)
 ***
-Увидим структуру
+Увидим структуру - это Response,в котором шесть полей. Возьмем,например,поле "people"
 ![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/FIRST_TEST_SWAPI_STRUCTURE.png)
 ***
-И можем выбрать поле,котрое хотим проверить.
-
-
+И можем выбрать поле,котрое хотим проверить. Модифицируем запрос.Мы хотим проверить поле “people”
+Здесь мы ожидаем значение ключа "people" -  это URL: "https://swapi.co/api/people/",
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/FIRST_TEST_SWAPI_RUN_MODIFY.png)
+***
+Запустим его и проверим,как тест отработает:
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/RUN_TEST_SWAPI_POSITIVE.png)
+***
+А вот так выглядит негативный тест,тоесть когда тест не отработал: Либо ошибка в коде,Либо в API
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/RUN_TEST_SWAPI_NEGATIVE.png)
+***
