@@ -99,5 +99,10 @@ postWithJson() - пример использования такой специф
 ***
 ExampleRestAssured8
 =====================
+Для применения в ответах Assertions будем использовать Java-библиотеку Hamcrest
+**Будем использовать API Swapi**
+Проверка наличия определенного поля в ответе
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/BASE_PECIFICATION_SWAPI.png)
+***
 
 
