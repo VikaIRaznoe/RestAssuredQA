@@ -107,5 +107,13 @@ ExampleRestAssured8
 ###
 ![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/BASE_PECIFICATION_SWAPI.png)
 ***
+Для реализации работы с Assertions создадим в TestConfig спецификацию для SWAPI
+Запустим тест
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/FIRST_TEST_SWAPI_RUN.png)
+***
+Увидим структуру
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/FIRST_TEST_SWAPI_STRUCTURE.png)
+***
+И можем выбрать поле,котрое хотим проверить.
 
 
