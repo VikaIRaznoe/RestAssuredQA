@@ -71,6 +71,7 @@ ExampleRestAssured5
 ![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/POST_XML_BODY_ERROR.png)
 ***
 Поэтому вынесим настройки RequestSpecification из класса TestConfig.Здесь же в классе TestConfig создадим две спецификации, НО вне метода setUp()
+***
 ExampleRestAssured6
 =====================
 В этом примере рассматриватеся спецификация request для одного отдельного теста и для группы тестов.
@@ -81,6 +82,7 @@ ExampleRestAssured6
 ![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/POST_JSON-XML_BODY.png)
 ***
 Итак,RequestSpecification нужен для определения спецификации Request как для одного отдельного теста,так и для группы тестов.
+***
 ExampleRestAssured7
 =====================
 В этом примере мы рассматриваем спецификацию Response для запроса GET
