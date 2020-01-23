@@ -81,6 +81,8 @@ ExampleRestAssured5
 ***
 ExampleRestAssured6
 =====================
+***Спецификации нужны,чтобы вынести общие признаки и общие проверки всех тестов в одно место.***
+***
 В этом примере рассматриватеся спецификация request для одного отдельного теста и для группы тестов.
 Спецификации нужны,чтобы выносить общие признаки и общие проверки в одно место для всех тестов
 ![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/TestConfig_RequestSpecification_Multipluy.png)
