@@ -149,3 +149,16 @@ FIRST_TEST_MODIFY_RESPONSE
 ![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/FIRST_TEST_NAME_RESULT.png)
 ***
 Вот таким несложным способом можно организовать проверку полей и убедиться ,что запросы организованы верно.
+***
+ExampleRestAssured9
+=====================
+В этом примере будем рассматривать получение ответа и получение определенных параметров из ответа.
+###
+Для этого будем использольвать requestSpecificationforSwapiTests
+Первый пример - Получение всего ответа с помощью функции Extract
+Сам тест выглядит так:
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/TEST_JSON_STRING.png)
+***
+Результат выполнения теста:
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/TEST_JSON_STRING_RESULT.png)
+***
