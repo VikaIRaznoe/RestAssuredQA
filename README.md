@@ -160,5 +160,18 @@ ExampleRestAssured9
 ![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/TEST_JSON_STRING.png)
 ***
 Результат выполнения теста:
-![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/TEST_JSON_STRING_RESULT.png)
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/TEST_JSON_STRING_RESULT2.png)
 ***
+Далее реализуем пример получения всех кук(cookies) или одной куки
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/GET_ALL_COOKIES.png)
+***
+Далее,попробуем получить с помощью функции extract загаловки(headers)
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/GET_HEADERS.png)
+***
+Результат - Получение всех Headers
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/GET_ALL_HEADERS_RESULT.png)
+***
+Сам тест:
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/GET_HEADERS_TEST.png)
+***
+Вот таким несложным способом мы можем получать тело ответа,cookies,headers
