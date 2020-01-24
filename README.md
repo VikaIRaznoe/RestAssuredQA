@@ -124,3 +124,20 @@ ExampleRestAssured8
 А вот так выглядит негативный тест,тоесть когда тест не отработал: Либо ошибка в коде,Либо в API
 ![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/RUN_TEST_SWAPI_NEGATIVE.png)
 ***
+Теперь напишем более сложную проверку
+!Добавим Action - SWAPE_GET_PEOPLE в get
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/getSomeFieldInResponseWithIndexAssertion.png)
+***
+В ответе мы видим большой JSON
+FIRST_TEST_MODIFY_RESPONSE
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/FIRST_TEST_MODIFY_RESPONSE.png)
+***
+Давайте сделаем проверку поля count,что оно  имеет значение 87 и,например,name,что оно имеет значение Luke Skywalker и находится в results
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/FIRST_TEST_COUNT.png)
+***
+Тест отработал корректно.
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/FIRST_TEST_COUNT_RESULT.png)
+***
+Исправим значение ключа "people" с корректного на некорректный
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/FIRST_TEST_COUNT_RESULT_NEGATIVE.png)
+***
