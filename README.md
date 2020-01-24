@@ -141,3 +141,11 @@ FIRST_TEST_MODIFY_RESPONSE
 Исправим значение ключа "people" с корректного на некорректный и получим вот такой результат работы теста.
 ![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/FIRST_TEST_COUNT_RESULT_NEGATIVE.png)
 ***
+Тоесть либо нам дали некорректные данные,либо внесены и хранятся неверные данные.
+Теперь сделаем "matcher" для поля name,котрое лежит в массиве results. Для этого нам нужны квадратные скобки.
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/FIRST_TEST_NAME.png)
+***
+Тест отработал корректно. В результате мы видим большой JSON-объект
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/FIRST_TEST_NAME_RESULT.png)
+***
+Вот таким несложным способом можно организовать проверку полей и убедиться ,что запросы организованы верно.
