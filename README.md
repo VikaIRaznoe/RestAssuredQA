@@ -138,6 +138,6 @@ FIRST_TEST_MODIFY_RESPONSE
 Тест отработал корректно.
 ![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/FIRST_TEST_COUNT_RESULT.png)
 ***
-Исправим значение ключа "people" с корректного на некорректный
+Исправим значение ключа "people" с корректного на некорректный и получим вот такой результат работы теста.
 ![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/FIRST_TEST_COUNT_RESULT_NEGATIVE.png)
 ***
