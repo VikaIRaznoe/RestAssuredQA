@@ -39,8 +39,8 @@ ExampleRestAssured3
 У нас отображается Content:
 ![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/ExampleRestAssured3_Content.png)
 ***
-3)ifValidationFails() - нужно логировать,если ошибка.Метод myThirdTest()
-![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/ExampleRestAssured3_Negativepng)
+3)ifValidationFails() - нужно логировать,если ошибка.Метод myThirdTest():
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/ExampleRestAssured3_Negative.png)
 ***
 ExampleRestAssured4
 =====================
