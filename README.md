@@ -175,3 +175,5 @@ ExampleRestAssured9
 ![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/GET_HEADERS_TEST.png)
 ***
 Вот таким несложным способом мы можем получать тело ответа,cookies,headers
+
+
