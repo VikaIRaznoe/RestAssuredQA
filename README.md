@@ -33,7 +33,7 @@ ExampleRestAssured3
 !Метод ifValidationFails() - если запрос падает,то логируем данные,которые передали на сервер
 
 Пример использования all()
-![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/logirovanie.png)
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/ExampleRestAssured3_log().png)
 2)Логирование ответа - метод mySecondTest()
 ###
 У нас отображается: 
