@@ -39,13 +39,13 @@ ExampleRestAssured3
 У нас отображается: 
 1)наш запрос
 ***
-![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/logirovanie_2.png)
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/ExampleRestAssured3_log()_Response.png)
 ***
 2)Content
-![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/logorovanie_3.png)
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/lExampleRestAssured3_Content.png)
 ***
-3)ifValidationFails() - нужно логировать,если ошибка
-![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/logirovanie_4.png)
+3)ifValidationFails() - нужно логировать,если ошибка.Метод myThirdTest()
+![screenshot of sample](https://github.com/VikaIRaznoe/RestAssuredQA/blob/master/Images/ExampleRestAssured3_myThirdTest.png)
 ***
 ExampleRestAssured4
 =====================
